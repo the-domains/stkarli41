@@ -1,0 +1,28 @@
+name: stkarli41
+favicon: null
+layout_spectrum: 0.5706011997535825
+typography_spectrum: 0.9320997132454067
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8909255426842719
+  lightness: 0.4523922703228891
+  saturation: 0.6081794698256999
+  rhythmicContrast: 0.4215482687577605
+purpose: []
